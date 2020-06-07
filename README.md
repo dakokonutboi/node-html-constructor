@@ -1,7 +1,7 @@
 # node-html-constructor
 ## Getting started
 ```js
-const html = require("node-html-constructor")
+const html = require("html-constructor")
 
 let page = html.Document(
   html.Tag("head",
