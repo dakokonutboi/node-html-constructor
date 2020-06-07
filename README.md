@@ -15,6 +15,8 @@ let page = html.Document(
     html.UniTag("img", {src: "https://image.flaticon.com/icons/png/512/103/103077.png"})
   )
 )
+
+console.log(page)
 ```
 Gives
 ```html
