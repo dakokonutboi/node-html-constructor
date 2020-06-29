@@ -1,6 +1,6 @@
 {
   "name": "html-constructor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a node module that helps with constructing HTML pages",
   "main": "index.js",
   "scripts": {
